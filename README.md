@@ -8,6 +8,10 @@ This project uses machine learning (Random Forest Classifier) to recommend the m
 
 ## 📁 Files Included
 
+- `Crop_Recommendation.csv`
+  
+- `Crop_prediction.csv`
+  
 - `Crop Data Analysis.ipynb`: Jupyter Notebook used to perform:
   - Data preprocessing and cleaning
   - Exploratory Data Analysis (EDA)
