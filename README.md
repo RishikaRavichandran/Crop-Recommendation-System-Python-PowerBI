@@ -8,9 +8,9 @@ This project uses machine learning (Random Forest Classifier) to recommend the m
 
 ## 📁 Files Included
 
-- `Crop_Recommendation.csv`
+- `Crop_Recommendation.csv`: The original dataset used for model training. It contains features such as Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, pH, and rainfall, along with the corresponding crop label.
   
-- `Crop_prediction.csv`
+- `Crop_prediction.csv`: A CSV file containing model predictions on test data. It includes all input features and the recommended crop, and is used for visual analysis in the Power BI dashboard.
   
 - `Crop Data Analysis.ipynb`: Jupyter Notebook used to perform:
   - Data preprocessing and cleaning
@@ -24,8 +24,7 @@ This project uses machine learning (Random Forest Classifier) to recommend the m
   - Predicted crop visualized by conditions
   - Dynamic visuals and slicers for better analysis
 
-- `Analysis Report`: A pdf report containing the summary.
-   
+- `Analysis Report`: A summary report (PDF) highlighting the objective, methodology, key observations from the EDA, model performance, and insights derived from the dashboard.
 ---
 
 ## ⚙️ Tools Used
